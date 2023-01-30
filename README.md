@@ -2,7 +2,7 @@
 
 ###
 
-<img align="right" height="150" src="./images/readmeImg.webp"  />
+<img align="right" height="200" src="./images/readmeImg.webp"  />
 
 ### Profile Views
 <div align="left">
@@ -45,6 +45,10 @@
 ### Streak
 
 <div align="center">
-  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=Its-anand&theme=radical&border_radius=3.4&background=282A36" alt="its-anand" /></p>
+  <p>
+   <img align="left" height="150" src="./images/SideImg1.png"  />
+   <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=Its-anand&theme=radical&border_radius=3.4&background=282A36" alt="its-anand" />
+   <img align="right" height="150" src="./images/SideImg2.png"  />
+  </p>
 </div> 
 
