@@ -50,9 +50,21 @@
 <br clear="both">
 <div align="center">
   <p>
-   <img align="left" height="160" src="./images/SideImg1.png"  />
+   
+   <picture>
+  <source media="(min-width:995px)" srcset="./images/SideImg1.png">
+  <source media="(min-width:825px)" height="100" srcset="./images/SideImg1.png">
+  <source media="(min-width:200px)" srcset="./images/Shape.png">
+  <img align="left"  src="./images/SideImg1.png"/>
+  </picture>
    <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=Its-anand&theme=radical&border_radius=3.4&background=282A36" alt="its-anand" />
-   <img align="right"height="160" src="./images/SideImg2.png"  />
+   <picture>
+  <source media="(min-width:995px)" srcset="./images/SideImg2.png">
+  <source media="(min-width:825px)" height="100" srcset="./images/SideImg2.png">
+  <source media="(min-width:200px)" srcset="./images/Shape2.png">
+<img align="right" src="./images/SideImg2.png"  />
+  </picture>
+   
   </p>
 </div> 
 
