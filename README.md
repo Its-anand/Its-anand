@@ -22,6 +22,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" width="42" alt="mysql logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" width="42" alt="python logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" width="42" alt="c logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" width="42" alt="cplusplus logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" width="42" alt="git logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" height="30" width="42" alt="wordpress logo"  />
 </div>
@@ -125,6 +126,78 @@
         </td>
     </tr>
 </table>
+<br clear="both">
+
+
+<br />
+<table>
+   <tr><!--Here-->
+       <th valign="center" width="33%" colspan="3">
+           <div align="center">
+               <p>Css Only Arts</p>
+            </div>
+        </th>
+    </tr>
+    <tr>
+        <th valign="center" width="33%">
+            <div align="center">
+                <a href="https://its-anand.github.io/Sunset-on-the-beach-image-made-with-html-and-css-only/" target="_blank">
+                    <img src="./images/Sunset.png" border="2" />
+                </a>
+            </div>
+        </th>
+        <th valign="center" width="33%">
+            <div align="center">
+                <a href="https://acroboard.000webhostapp.com/" target="_blank">
+                    <img src="./images/Diya.png" border="2" />
+                </a>
+            </div>
+        </th>
+        <th valign="center" width="33%">
+            <div align="center">
+                <a href="https://minglish.000webhostapp.com/" target="_blank">
+                    <img src="./images/" border="2" />
+                </a>
+            </div>
+        </th>
+    </tr>
+    <tr>
+        <td valign="top" width="33%">
+            <div align="center">
+                <a href="https://its-anand.github.io/Sunset-on-the-beach-image-made-with-html-and-css-only/" target="_blank">
+                    <b>PureHealth Ecommerce </b>
+                </a>
+                <br />
+                <a href="https://github.com/Its-anand/Sunset-on-the-beach-image-made-with-html-and-css-only" target="_blank">
+                    View Repo
+                </a>
+            </div>
+        </td>
+        <td valign="top" width="33%">
+            <div align="center">
+                <a href="https://acroboard.000webhostapp.com/" target="_blank">
+                    <b>Acroplis Notice Board</b>
+                </a>
+                <br />
+                <a href="https://github.com/Its-anand/Acropolis-Notice-Board" target="_blank">
+                    View Repo
+                </a>
+            </div>
+        </td>
+        <td valign="top" width="33%">
+            <div align="center">
+                <a href="https://minglish.000webhostapp.com/" target="_blank">
+                    <b>Common Meaningful words Website</b>
+                </a>
+                <br />
+                <a href="https://github.com/Its-anand/CMW-project" target="_blank">
+                    View Repo
+                </a>
+            </div>
+        </td>
+    </tr>
+</table>
+
 <br clear="both">
 
 ### Trophy
