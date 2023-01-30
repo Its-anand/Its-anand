@@ -148,15 +148,15 @@
         </th>
         <th valign="center" width="33%">
             <div align="center">
-                <a href="https://acroboard.000webhostapp.com/" target="_blank">
+                <a href="https://its-anand.github.io/Diwali-Special-diya-and-moving-bati-with-html-css-only/" target="_blank">
                     <img src="./images/Diya.png" border="2" />
                 </a>
             </div>
         </th>
         <th valign="center" width="33%">
             <div align="center">
-                <a href="https://minglish.000webhostapp.com/" target="_blank">
-                    <img src="./images/" border="2" />
+                <a href="#" target="_blank">
+                    <img src="./images/Cooming Soon.png" border="2" />
                 </a>
             </div>
         </th>
@@ -165,7 +165,7 @@
         <td valign="top" width="33%">
             <div align="center">
                 <a href="https://its-anand.github.io/Sunset-on-the-beach-image-made-with-html-and-css-only/" target="_blank">
-                    <b>PureHealth Ecommerce </b>
+                    <b>Sunset On The Beach</b>
                 </a>
                 <br />
                 <a href="https://github.com/Its-anand/Sunset-on-the-beach-image-made-with-html-and-css-only" target="_blank">
@@ -175,22 +175,22 @@
         </td>
         <td valign="top" width="33%">
             <div align="center">
-                <a href="https://acroboard.000webhostapp.com/" target="_blank">
-                    <b>Acroplis Notice Board</b>
+                <a href="https://its-anand.github.io/Diwali-Special-diya-and-moving-bati-with-html-css-only/" target="_blank">
+                    <b>Dewali Diya Animation</b>
                 </a>
                 <br />
-                <a href="https://github.com/Its-anand/Acropolis-Notice-Board" target="_blank">
+                <a href="https://github.com/Its-anand/Diwali-Special-diya-and-moving-bati-with-html-css-only" target="_blank">
                     View Repo
                 </a>
             </div>
         </td>
         <td valign="top" width="33%">
             <div align="center">
-                <a href="https://minglish.000webhostapp.com/" target="_blank">
-                    <b>Common Meaningful words Website</b>
+                <a href="#" target="_blank">
+                    <b>Commoning Soon</b>
                 </a>
                 <br />
-                <a href="https://github.com/Its-anand/CMW-project" target="_blank">
+                <a href="#" target="_blank">
                     View Repo
                 </a>
             </div>
