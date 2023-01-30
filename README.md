@@ -46,9 +46,9 @@
 
 <div align="center">
   <p>
-   <img align="left" height="150" src="./images/SideImg1.png"  />
+   <img align="left" src="./images/SideImg1.png"  />
    <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=Its-anand&theme=radical&border_radius=3.4&background=282A36" alt="its-anand" />
-   <img align="right" height="150" src="./images/SideImg2.png"  />
+   <img align="right" src="./images/SideImg2.png"  />
   </p>
 </div> 
 
