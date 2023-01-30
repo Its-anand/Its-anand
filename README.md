@@ -32,6 +32,9 @@
   <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+ <a href="https://www.codechef.com/users/jaivrat1" target="_blank">
+        <img alt="CodeChef" src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" height="35" alt="CodeChef"/>
+ </a>
 </div>
 <br clear="both">
 
@@ -43,7 +46,7 @@
 </div>
 
 ### Streak
-
+<br clear="both">
 <div align="center">
   <p>
    <img align="left" height="160" src="./images/SideImg1.png"  />
@@ -51,4 +54,82 @@
    <img align="right"height="160" src="./images/SideImg2.png"  />
   </p>
 </div> 
+
+### Projects
+
+<br />
+<table>
+   <tr><!--Here-->
+       <th valign="center" width="33%" colspan="3">
+           <div align="center">
+               <p>Top Projects</p>
+            </div>
+        </th>
+    </tr>
+    <tr>
+        <th valign="center" width="33%">
+            <div align="center">
+                <a href="https://pure-health-natural-products.000webhostapp.com/index.php" target="_blank">
+                    <img src="./images/PureHealth.png" border="2" />
+                </a>
+            </div>
+        </th>
+        <th valign="center" width="33%">
+            <div align="center">
+                <a href="https://acroboard.000webhostapp.com/" target="_blank">
+                    <img src="./images/Acroboard.png" border="2" />
+                </a>
+            </div>
+        </th>
+        <th valign="center" width="33%">
+            <div align="center">
+                <a href="https://minglish.000webhostapp.com/" target="_blank">
+                    <img src="./images/CMW.png" border="2" />
+                </a>
+            </div>
+        </th>
+    </tr>
+    <tr>
+        <td valign="top" width="33%">
+            <div align="center">
+                <a href="https://pure-health-natural-products.000webhostapp.com/index.php" target="_blank">
+                    <b>PureHealth Ecommerce </b>
+                </a>
+                <br />
+                <a href="https://github.com/Its-anand/Pure-Health" target="_blank">
+                    View Repo
+                </a>
+            </div>
+        </td>
+        <td valign="top" width="33%">
+            <div align="center">
+                <a href="https://acroboard.000webhostapp.com/" target="_blank">
+                    <b>Acroplis Notice Board</b>
+                </a>
+                <br />
+                <a href="https://github.com/Its-anand/Acropolis-Notice-Board" target="_blank">
+                    View Repo
+                </a>
+            </div>
+        </td>
+        <td valign="top" width="33%">
+            <div align="center">
+                <a href="https://minglish.000webhostapp.com/" target="_blank">
+                    <b>Common Meaningful words Website</b>
+                </a>
+                <br />
+                <a href="https://github.com/Its-anand/CMW-project" target="_blank">
+                    View Repo
+                </a>
+            </div>
+        </td>
+    </tr>
+</table>
+<br clear="both">
+
+### Trophy
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=Its-anand&column=4&margin-w=5&margin-h=5&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C&no-frame=true&theme=onestar" alt="My Trophies"/>
+</p>
 
