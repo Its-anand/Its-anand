@@ -63,7 +63,7 @@
    <tr><!--Here-->
        <th valign="center" width="33%" colspan="3">
            <div align="center">
-               <p>Top Projects</p>
+               Top Projects
             </div>
         </th>
     </tr>
@@ -134,7 +134,7 @@
    <tr><!--Here-->
        <th valign="center" width="33%" colspan="3">
            <div align="center">
-               <p>Css Only Arts</p>
+               Css Only Arts
             </div>
         </th>
     </tr>
@@ -187,7 +187,7 @@
         <td valign="top" width="33%">
             <div align="center">
                 <a href="#" target="_blank">
-                    <b>Commoning Soon</b>
+                    <b>Coming Soon</b>
                 </a>
                 <br />
                 <a href="#" target="_blank">
