@@ -2,7 +2,7 @@
 
 ###
 
-<img align="right" height="250" src="./images/readmeImg.webp"  />
+<img align="right" height="250" src="./images/github.gif"  />
 
 ### Profile Views
 <div align="left">
