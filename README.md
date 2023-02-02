@@ -2,7 +2,7 @@
 
 ###
 
-<img align="right" height="250" src="./images/github.gif"  />
+<img align="right" height="250" src="./images/github.webp"  />
 
 ### Profile Views
 <div align="left">
