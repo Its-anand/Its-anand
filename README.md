@@ -1,8 +1,9 @@
 <h1 align="left">Hi 👋! I'm a Web Developer</h1>
 
-###
-
-<img align="right" height="250" src="./images/github.webp"  />
+<picture>
+  <source media="(max-width:600px)" srcset="#">
+  <img src="./images/github.webp" align="right">
+</picture>
 
 ### Profile Views
 <div align="left">
