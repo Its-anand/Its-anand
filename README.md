@@ -162,7 +162,7 @@
         <th valign="center" width="33%">
             <div align="center">
                 <a href="#" target="_blank">
-                    <img src="./images/Cooming Soon.png" border="2" />
+                    <img src="./images/Sunset Road Trip.avif" border="2" />
                 </a>
             </div>
         </th>
@@ -192,11 +192,11 @@
         </td>
         <td valign="top" width="33%">
             <div align="center">
-                <a href="#" target="_blank">
-                    <b>Coming Soon</b>
+                <a href="https://its-anand.github.io/sunset-road-trip/" target="_blank">
+                    <b>Sunset Road Trip</b>
                 </a>
                 <br />
-                <a href="#" target="_blank">
+                <a href="https://github.com/Its-anand/sunset-road-trip" target="_blank">
                     View Repo
                 </a>
             </div>
