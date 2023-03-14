@@ -17,8 +17,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" width="42" alt="css3 logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="30" width="42" alt="sass logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" width="42" alt="javascript logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" width="42" alt="react logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" width="42" alt="nodejs logo"  />
+  <!--<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" width="42" alt="react logo"  /> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" width="42" alt="nodejs logo"  /> -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30" width="42" alt="php logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" width="42" alt="mysql logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" width="42" alt="python logo"  />
@@ -147,7 +147,7 @@
     <tr>
         <th valign="center" width="33%">
             <div align="center">
-                <a href="https://its-anand.github.io/Sunset-on-the-beach-image-made-with-html-and-css-only/" target="_blank">
+                <a href="https://its-anand.github.io/Sunset-at-the-beach-image-made-with-html-and-css-only/" target="_blank">
                     <img src="./images/Sunset.png" border="2" />
                 </a>
             </div>
@@ -161,7 +161,7 @@
         </th>
         <th valign="center" width="33%">
             <div align="center">
-                <a href="#" target="_blank">
+                <a href="https://its-anand.github.io/sunset-road-trip/" target="_blank">
                     <img src="./images/Sunset Road Trip.avif" border="2" />
                 </a>
             </div>
@@ -170,7 +170,7 @@
     <tr>
         <td valign="top" width="33%">
             <div align="center">
-                <a href="https://its-anand.github.io/Sunset-on-the-beach-image-made-with-html-and-css-only/" target="_blank">
+                <a href="https://its-anand.github.io/Sunset-at-the-beach-image-made-with-html-and-css-only/" target="_blank">
                     <b>Sunset On The Beach</b>
                 </a>
                 <br />
