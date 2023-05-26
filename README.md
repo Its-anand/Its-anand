@@ -1,4 +1,4 @@
-<h1 align="left">Hi 👋! I'm a Web Developer</h1>
+<h1 align="left">Hi there👋! I'm a Web Developer</h1>
 
 <picture>
   <source media="(max-width:600px)" srcset="#">
