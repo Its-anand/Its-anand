@@ -182,7 +182,7 @@
         <td valign="top" width="33%">
             <div align="center">
                 <a href="https://its-anand.github.io/Diwali-Special-diya-and-moving-bati-with-html-css-only/" target="_blank">
-                    <b>Dewali Diya Animation</b>
+                    <b>Diwali Diya Animation</b>
                 </a>
                 <br />
                 <a href="https://github.com/Its-anand/Diwali-Special-diya-and-moving-bati-with-html-css-only" target="_blank">
