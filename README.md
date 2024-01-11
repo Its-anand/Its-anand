@@ -73,22 +73,22 @@
     <tr>
         <th valign="center" width="33%">
             <div align="center">
-                <a href="https://project-purehealth.thats.im/" target="_blank">
+                <a href="https://www.anandchoudhary.in/projects/Pure-Health/index.php" target="_blank">
                     <img src="./images/PureHealth.png" border="2" />
                 </a>
             </div>
         </th>
         <th valign="center" width="33%">
             <div align="center">
-                <a href="https://www.project-notice-board.thats.im/" target="_blank">
+                <a href="https://www.anandchoudhary.in/projects/Acropolis-Notice-Board/index.php" target="_blank">
                     <img src="./images/Acroboard.png" border="2" />
                 </a>
             </div>
         </th>
         <th valign="center" width="33%">
             <div align="center">
-                <a href="https://minglish.000webhostapp.com/" target="_blank">
-                    <img src="./images/CMW.png" border="2" />
+                <a href="https://www.anandchoudhary.in/projects/Travel-with-strangers/index.php" target="_blank">
+                    <img src="./images/TWS.png" border="2" />
                 </a>
             </div>
         </th>
@@ -96,7 +96,7 @@
     <tr>
         <td valign="top" width="33%">
             <div align="center">
-                <a href="https://project-purehealth.thats.im/" target="_blank">
+                <a href="https://www.anandchoudhary.in/projects/Pure-Health/index.php" target="_blank">
                     <b>PureHealth Ecommerce </b>
                 </a>
                 <br />
@@ -107,7 +107,7 @@
         </td>
         <td valign="top" width="33%">
             <div align="center">
-                <a href="https://www.project-notice-board.thats.im/" target="_blank">
+                <a href="https://www.anandchoudhary.in/projects/Acropolis-Notice-Board/index.php" target="_blank">
                     <b>Acroplis Notice Board</b>
                 </a>
                 <br />
@@ -118,11 +118,11 @@
         </td>
         <td valign="top" width="33%">
             <div align="center">
-                <a href="https://minglish.000webhostapp.com/" target="_blank">
-                    <b>Common Meaningful words Website</b>
+                <a href="https://www.anandchoudhary.in/projects/Travel-with-strangers/index.php" target="_blank">
+                    <b>Travel with stranger</b>
                 </a>
                 <br />
-                <a href="https://github.com/Its-anand/CMW-project" target="_blank">
+                <a href="https://github.com/Its-anand/Travel-with-strangers" target="_blank">
                     View Repo
                 </a>
             </div>
